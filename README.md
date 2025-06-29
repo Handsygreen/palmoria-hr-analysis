@@ -28,3 +28,7 @@ images/
 - Average rating by gender and department
 - Salary band analysis by location
 - Bonus and payroll cost analysis
+
+
+## ✨ Author
+Emmanuel Daramola
